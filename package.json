@@ -1,0 +1,15 @@
+{
+  "name": "opendash-widget-highchart-example",
+  "version": "1.0.0",
+  "author": "Sebastian Zilles <github@zilles.io>",
+  "license": "UNLICENSED",
+  "private": true,
+  "main": "dist/widget.common.js",
+  "jsnext:main": "dist/widget.module.js",
+  "module": "dist/widget.module.js",
+  "assets": [
+    "assets"
+  ],
+  "dependencies": {
+  }
+}

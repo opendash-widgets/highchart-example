@@ -1,0 +1,4 @@
+<label>Gerät auswählen:</label>
+<select ng-model="$ctrl.config.id">
+  <option ng-repeat="option in $ctrl.devices" value="{{option.id}}">{{option.name}}</option>
+</select>
